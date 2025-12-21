@@ -1,9 +1,9 @@
-📊 Customer Analytics, Segmentation & Churn Prediction
-📌 Project Overview
+**📊 Customer Analytics, Segmentation & Churn Prediction**
+**📌 Project Overview**
 
 This project aims to analyze customer purchasing patterns, behavior, and engagement using data analytics and machine learning techniques. The goal is to help businesses better understand their customers, identify key segments, predict churn, and generate actionable insights that improve customer retention, marketing efficiency, and overall sales performance.
 
-🎯 Objectives
+**🎯 Objectives**
 
 Analyze customer demographics and purchase behavior
 
@@ -15,7 +15,7 @@ Discover key factors influencing customer retention
 
 Provide data-driven recommendations for business growth
 
-📂 Dataset Description
+**📂 Dataset Description**
 
 The dataset includes customer-related information such as:
 
@@ -31,7 +31,7 @@ Product categories and payment methods
 
 (Data preprocessing and cleaning are applied before analysis.)
 
-🔍 Exploratory Data Analysis (EDA)
+**🔍 Exploratory Data Analysis (EDA)**
 
 Analyzed customer purchasing trends and seasonal patterns
 
@@ -41,7 +41,7 @@ Studied engagement behavior across different customer groups
 
 Visualized insights using charts and dashboards
 
-🧩 Customer Segmentation
+**🧩 Customer Segmentation**
 
 Applied clustering algorithms (e.g., K-Means) to segment customers
 
@@ -55,7 +55,7 @@ Occasional or low-engagement buyers
 
 These segments help businesses personalize marketing and retention strategies.
 
-🤖 Churn Prediction
+**🤖 Churn Prediction**
 
 Built machine learning models to predict customer churn
 
@@ -65,7 +65,7 @@ Evaluated model performance using appropriate metrics
 
 Highlighted at-risk customers for proactive retention efforts
 
-📈 Key Insights
+**📈 Key Insights**
 
 Loyal customers contribute significantly to total revenue
 
@@ -75,7 +75,7 @@ Engagement frequency strongly impacts churn probability
 
 Targeted offers and personalized communication can reduce churn
 
-💡 Business Recommendations
+**💡 Business Recommendations**
 
 Introduce loyalty programs for high-value customers
 
@@ -85,15 +85,11 @@ Re-engage inactive customers with targeted campaigns
 
 Optimize marketing spend using customer segmentation
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
-Programming: Python
-
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-
+Power BI
 Database: SQL
 
-Techniques: EDA, Clustering, Classification, Feature Engineering
 
 Visualization: Charts & dashboards
 
